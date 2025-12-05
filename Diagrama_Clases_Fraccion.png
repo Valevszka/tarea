@@ -1,0 +1,16 @@
++---------------------+
+|      Fraccion       |
++---------------------+
+| - num : int         |
+| - den : int         |
++---------------------+
+| + Fraccion()        |
+| + Fraccion(int,int) |
+| + getNum(): int     |
+| + getDen(): int     |
+| + setNum(int)       |
+| + setDen(int)       |
+| + calc_valor_real() |
+| + sumar(Fraccion)   |
+| + to_string():string|
++---------------------+
